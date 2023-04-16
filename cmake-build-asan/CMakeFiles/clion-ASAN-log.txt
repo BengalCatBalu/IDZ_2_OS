@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=ASAN -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_CXX_COMPILER=/opt/homebrew/bin/g++-12 -DCMAKE_BUILD_TYPE=ASAN -G Ninja -S /Users/efimovivan/Desktop/IDZ_2_OS -B /Users/efimovivan/Desktop/IDZ_2_OS/cmake-build-asan
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/efimovivan/Desktop/IDZ_2_OS/cmake-build-asan

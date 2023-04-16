@@ -1,0 +1,3 @@
+/Users/efimovivan/Desktop/IDZ_2_OS/cmake-build-release/CMakeFiles/IDZ_2_OS.dir
+/Users/efimovivan/Desktop/IDZ_2_OS/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/efimovivan/Desktop/IDZ_2_OS/cmake-build-release/CMakeFiles/rebuild_cache.dir
